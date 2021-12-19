@@ -572,6 +572,7 @@ iproute2
 iputils
 libpsl
 libpwquality
+libsodium
 libunistring
 logrotate
 mpfr
