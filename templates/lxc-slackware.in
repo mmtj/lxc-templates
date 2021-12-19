@@ -5,6 +5,7 @@
 
 # Authors:
 # Daniel Lezcano <daniel.lezcano@free.fr>
+# Martin Matejek 2021-
 
 # Template for slackware by Matteo Bernardini <ponce@slackbuilds.org>
 # some parts are taken from the debian one (used as model)
@@ -565,6 +566,7 @@ gnupg
 grep
 gzip
 hostname
+iproute2
 iputils
 libpsl
 libunistring
@@ -589,6 +591,7 @@ sysvinit-scripts
 tar
 udev
 util-linux
+vim
 wget
 which
 xz
