@@ -552,6 +552,7 @@ aaa_terminfo
 bash
 bin
 bzip2
+ca-certificates
 coreutils
 cracklib
 dhcpcd
@@ -580,6 +581,7 @@ net-tools
 network-scripts
 ncurses
 openssh
+openssl
 openssl-solibs
 pam
 pcre2
