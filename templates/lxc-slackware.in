@@ -547,7 +547,7 @@ EOF
 # http://connie.slackware.com/~vbatts/minimal/
 cat <<EOF > $CONF/templates/minimal-lxc.template
 aaa_base
-aaa_elflibs
+aaa_libraries
 aaa_terminfo
 bash
 bin
@@ -561,6 +561,7 @@ elvis
 etc
 findutils
 gawk
+glibc
 glibc-solibs
 gnupg
 grep
@@ -577,6 +578,7 @@ network-scripts
 ncurses
 openssh
 openssl-solibs
+pam
 pcre2
 pkgtools
 procps-ng
