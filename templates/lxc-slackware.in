@@ -553,6 +553,7 @@ bash
 bin
 bzip2
 coreutils
+cracklib
 dhcpcd
 dialog
 diffutils
@@ -570,6 +571,7 @@ hostname
 iproute2
 iputils
 libpsl
+libpwquality
 libunistring
 logrotate
 mpfr
